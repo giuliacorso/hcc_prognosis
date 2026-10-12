@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# patient data (not shared)
+csvs/
+*.pt
+
+# outputs
+results*/
+tables*/

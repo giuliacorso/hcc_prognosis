@@ -1,0 +1,12 @@
+# Experiments (main.py). Versions used to produce and verify the results of the paper (Python 3.10).
+torch==1.13.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.7.2
+feature-engine==1.9.3
+shap==0.47.2
+nystrom-attention==0.0.11
+
+# Statistical tests (analysis/statistical_tests.py)
+scipy
+statsmodels
